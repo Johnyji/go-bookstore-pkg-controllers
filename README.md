@@ -1,1 +1,1 @@
-# go-bookstore-pkg-controllers
+# go-bookstore
